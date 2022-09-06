@@ -4,8 +4,6 @@ clear all
 %note at 20C
 %only works for 1, -1 symetric electrolytes.
 
-%version 2 updates Fig 4 graph to nm units instead of um 
-
 %inputs
 
 %select case
