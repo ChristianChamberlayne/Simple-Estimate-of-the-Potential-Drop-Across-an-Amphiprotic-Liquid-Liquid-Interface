@@ -4,8 +4,6 @@ clear all
 %note at 20C
 % only works for 1, -1 symetric electrolytes. 
 
-%version 2 updates Fig 3 graph to nm units instead of um 
-
 if(true) %1mM case in paper
     pH = 6;
     pOH = 8;
